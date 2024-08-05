@@ -252,7 +252,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://upload.wikimedia.org/wikipedia/en/f/f9/Logolkouniv.jpg",
     school: "University of Lucknow, Lucknow",
     date: "July, 2016 - May,2019",
     grade: "45.5%",
@@ -261,7 +261,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "",
+    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.idreameducation.org%2Fupboard&psig=AOvVaw0qUknJVvbaP2RWZJkPrqO5&ust=1722948264676000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDnhszw3YcDFQAAAAAdAAAAABAJ",
     school: "Lucknow Model Public Inter College,Lucknow",
     date: "April 2014 - Apr 2016",
     grade: "83%",
@@ -270,7 +270,7 @@ export const education = [
   },
   {
     id: 3,
-    img: "3",
+    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.idreameducation.org%2Fupboard&psig=AOvVaw0qUknJVvbaP2RWZJkPrqO5&ust=1722948264676000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDnhszw3YcDFQAAAAAdAAAAABAJ",
     school: "Lucknow Model Public Inter College,Lucknow",
     date: "April 2012 - Apr 2014",
     grade: "84%",
