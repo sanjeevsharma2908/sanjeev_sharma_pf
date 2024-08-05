@@ -261,7 +261,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.idreameducation.org%2Fupboard&psig=AOvVaw0qUknJVvbaP2RWZJkPrqO5&ust=1722948264676000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDnhszw3YcDFQAAAAAdAAAAABAJ",
+    img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSh-UgbFeR8ykFnNvb6kQMjsyC0MottpxqWmkaTSyjg_8wfdfbn",
     school: "Lucknow Model Public Inter College,Lucknow",
     date: "April 2014 - Apr 2016",
     grade: "83%",
@@ -270,7 +270,7 @@ export const education = [
   },
   {
     id: 3,
-    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.idreameducation.org%2Fupboard&psig=AOvVaw0qUknJVvbaP2RWZJkPrqO5&ust=1722948264676000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDnhszw3YcDFQAAAAAdAAAAABAJ",
+    img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSh-UgbFeR8ykFnNvb6kQMjsyC0MottpxqWmkaTSyjg_8wfdfbn",
     school: "Lucknow Model Public Inter College,Lucknow",
     date: "April 2012 - Apr 2014",
     grade: "84%",
