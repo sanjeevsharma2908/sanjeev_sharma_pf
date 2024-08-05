@@ -261,7 +261,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "public\lmpic.jpg",
+    img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSh-UgbFeR8ykFnNvb6kQMjsyC0MottpxqWmkaTSyjg_8wfdfbn",
     school: "Lucknow Model Public Inter College,Lucknow",
     date: "April 2014 - Apr 2016",
     grade: "83%",
@@ -270,7 +270,7 @@ export const education = [
   },
   {
     id: 3,
-    img: "public\lmpic.jpg",
+    img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSh-UgbFeR8ykFnNvb6kQMjsyC0MottpxqWmkaTSyjg_8wfdfbn",
     school: "Lucknow Model Public Inter College,Lucknow",
     date: "April 2012 - Apr 2014",
     grade: "84%",
@@ -280,7 +280,7 @@ export const education = [
 ];
 
 export const projects = [
- 
+  
   {
     id: 0,
     title: "Podstream",
@@ -368,6 +368,5 @@ export const projects = [
     github: "https://github.com/rishavchanda/Buckoid-Android-App",
     webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
   },
-  
 ];
 
