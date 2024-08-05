@@ -261,7 +261,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSh-UgbFeR8ykFnNvb6kQMjsyC0MottpxqWmkaTSyjg_8wfdfbn",
+    img: "public\lmpic.jpg",
     school: "Lucknow Model Public Inter College,Lucknow",
     date: "April 2014 - Apr 2016",
     grade: "83%",
@@ -270,7 +270,7 @@ export const education = [
   },
   {
     id: 3,
-    img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSh-UgbFeR8ykFnNvb6kQMjsyC0MottpxqWmkaTSyjg_8wfdfbn",
+    img: "public\lmpic.jpg",
     school: "Lucknow Model Public Inter College,Lucknow",
     date: "April 2012 - Apr 2014",
     grade: "84%",
