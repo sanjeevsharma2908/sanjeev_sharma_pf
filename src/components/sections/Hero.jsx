@@ -174,8 +174,7 @@ const ResumeButton = styled.a`
         padding: 12px 0;
         font-size: 18px;
     } 
-    color: white;
-`;
+    color: white;`;
 
 const Img = styled.img`
   border-radius: 50%;
@@ -214,6 +213,14 @@ const HeroBg = styled.div`
     padding: 0 0px;
   }
 `;
+const handleDownload = () =>{
+  const link = document.createElement('a');
+  link.href = Bio.resume;
+  link.download = 'Resume_Sanjeev_sharma';
+  document.body.appendChild(link);
+  link.click(); 
+  document.body.removeChild(link);
+}
 
 const Hero = () => {
   return (
@@ -249,7 +256,7 @@ const Hero = () => {
                 <SubTitle>{Bio.description}</SubTitle>
               </motion.div>
 
-              <ResumeButton href={Bio.resume} target="_blank">
+              <ResumeButton href={Bio.resume} onClick={handleDownload} target="_blank">
                 Check Resume
               </ResumeButton>
             </HeroLeftContainer>
