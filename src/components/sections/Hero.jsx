@@ -161,6 +161,8 @@ const ResumeButton = styled.a`
   border-radius: 50px;
   font-weight: 600;
   font-size: 20px;
+  line-height: 32px;
+  color: red;
 
      &:hover {
         transform: scale(1.05);
