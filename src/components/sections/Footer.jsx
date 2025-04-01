@@ -89,6 +89,7 @@ const Footer = () => {
     <FooterContainer>
       <FooterWrapper>
         <Logo>Sanjeev Sharma</Logo>
+        <h1> sshamra2418@outlook.com</h1>
         <Nav>
           <NavLink href="#About">About</NavLink>
           <NavLink href="#Skills">Skills</NavLink>
