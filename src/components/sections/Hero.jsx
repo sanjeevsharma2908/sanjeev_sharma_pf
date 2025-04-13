@@ -215,13 +215,17 @@ const HeroBg = styled.div`
     padding: 0 0px;
   }
 `;
-const handleDownload = () =>{
+const handleDownload = (event) =>{
+ 
+  event.preventDefault();
+  console.log("Downloading resume...");
   const link = document.createElement('a');
   link.href = Bio.resume;
   link.download = 'Resume_Sanjeev_sharma';
   document.body.appendChild(link);
   link.click(); 
   document.body.removeChild(link);
+  console.log("Downloaded...");
 }
 
 const Hero = () => {
@@ -258,7 +262,7 @@ const Hero = () => {
                 <SubTitle>{Bio.description}</SubTitle>
               </motion.div>
 
-              <ResumeButton href={Bio.resume} onClick={handleDownload} target="_blank">
+              <ResumeButton onClick={handleDownload} >
                 Check Resume
               </ResumeButton>
             </HeroLeftContainer>

@@ -296,7 +296,7 @@ export const projects = [
     member: [
       {
         name: "Sanjeev Sharma",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+        img: "https://avatars.githubusercontent.com/u/69752064?s=400&u=c9f7f281df595d89108788f35f749b7c160b4d60&v=4",
         linkedin: "https://www.linkedin.com/in/sanjeev-sharma2908/",
         github: "https://github.com/sanjeevsharma2908",
       }
@@ -307,7 +307,7 @@ export const projects = [
     title: "Replica of Shop.com",
     date: "jan 2024 - Jan 2024",
     description:
-      "Designed and developed clone of the shop.com providing a range of the features of an e commerce web app.",
+      "Designed and developed clone of the shop.com providing a range of the features of an e commerce web.",
     image:
       "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
     tags: [
@@ -319,48 +319,40 @@ export const projects = [
       "NodeMailer",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
-  },
-  {
-    id: 2,
-    title: "Brain Tumor Detection",
-    date: "Jan 2023 - Mar 2023",
-    description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-    image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
+    github: "https://github.com/sanjeevsharma2908/abounding-pocket-4791/tree/main",
+    webapp: "https://shopeclonecom.netlify.app/",
     member: [
       {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
+        name: "Sanjeev Sharma",
+        img: "https://avatars.githubusercontent.com/u/69752064?s=400&u=c9f7f281df595d89108788f35f749b7c160b4d60&v=4",
+        linkedin: "https://www.linkedin.com/in/sanjeev-sharma2908/",
+        github: "https://github.com/sanjeevsharma2908",
+      }
     ],
   },
+  
   {
-    id: 3,
-    title: "Buckoid",
-    date: "Dec 2021 - Apr 2022",
+    id: 2,
+    title: "The Dojo Blog",
+    date: "Dec 2023 - Dec 2023",
     description:
-      "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
+      "A fully functional with front end and back - end architecture providing the user with CRUD operations.",
     image:
-      "https://camo.githubusercontent.com/3ad28aa710d18525f1fc87de056ed53c706d09979589bfd5a773df36653bad38/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-    tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+    tags: ["Node.js","MongoDB","CSS", "React"],
+    category: "React app",
+    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
+    webapp: "https://stellular-cheesecake-9681f7.netlify.app/",
+    member: [
+      {
+        name: "Sanjeev Sharma",
+        img: "https://avatars.githubusercontent.com/u/69752064?s=400&u=c9f7f281df595d89108788f35f749b7c160b4d60&v=4",
+        linkedin: "https://www.linkedin.com/in/sanjeev-sharma2908/",
+        github: "https://github.com/sanjeevsharma2908",
+      }
+    ],
+    
   },
+
 ];
 
