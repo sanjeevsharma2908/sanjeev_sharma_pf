@@ -8,7 +8,7 @@ import StarCanvas from "./components/canvas/Stars";
 import { AnimatePresence } from "framer-motion";
 import Education from "./components/sections/Education";
 import Projects from "./components/sections/Projects";
-import Contact from "./components/sections/Contact";
+
 import Footer from "./components/sections/Footer";
 import ProjectDetails from "./components/Dialog/ProjectDetails";
 import { useState } from "react";
@@ -54,7 +54,7 @@ function App() {
               <Projects openModal={openModal} setOpenModal={setOpenModal} />
               <Wrapper>
                 <Education />
-                <Contact />
+               
               </Wrapper>
               <Footer />
 
