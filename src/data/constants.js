@@ -283,37 +283,31 @@ export const projects = [
   
   {
     id: 0,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
+    title: "Tomato.com",
+    date: "Apr 2024 - May 2024",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "Developed a full-stack web application that allows users to search order dishes  of their own choice.",
     image:
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    github: "https://github.com/sanjeevsharma2908/fdfrontend",
+    webapp: "https://rysem.netlify.app/",
     member: [
       {
-        name: "Rishav Chanda",
+        name: "Sanjeev Sharma",
         img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
+        linkedin: "https://www.linkedin.com/in/sanjeev-sharma2908/",
+        github: "https://github.com/sanjeevsharma2908",
+      }
     ],
   },
   {
     id: 1,
-    title: "Vexa",
-    date: "Oct 2022 - Jan 2023",
+    title: "Replica of Shop.com",
+    date: "jan 2024 - Jan 2024",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "Designed and developed clone of the shop.com providing a range of the features of an e commerce web app.",
     image:
       "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
     tags: [
