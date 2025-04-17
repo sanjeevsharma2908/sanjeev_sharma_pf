@@ -8,8 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/sanjeevsharma2908",
   resume:
-    "https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66dc5767f930ea373f553fd1",
-  linkedin: "https://www.linkedin.com/in/sanjeev-sharma2908/",
+    "https://drive.google.com/file/d/1p5f-Gef0UocIS2MSVk-qnUMfKy-n7wNF/view?usp=sharing",
   twitter: "#",
   insta: "https://www.instagram.com/sanjeevsharma7417?igsh=MWV3eHpxZzBraGMzYw==",
   facebook: "https://www.facebook.com/estaflerjohn.sharma?mibextid=ZbWKwL",

@@ -215,19 +215,18 @@ const HeroBg = styled.div`
     padding: 0 0px;
   }
 `;
-const handleDownload = (event) =>{
- 
+const handleDownload = (event) => {
   event.preventDefault();
-  console.log("Downloading resume...");
-  const link = document.createElement('a');
-  link.href = Bio.resume;
-  link.download = 'Resume_Sanjeev_sharma';
+  console.log("Download button clicked!");
+  const  link = document.createElement("a");
+  link.href ='public\SanjeevSharma-FullStackWebDeveloper-Zn75 (1).pdf';
+  // link.target = "_blank";
+  link.download = 'SanjeevSharma-FullStackWebDeveloper-tAkK.pdf';
   document.body.appendChild(link);
-  link.click(); 
+  link.click();
   document.body.removeChild(link);
-  console.log("Downloaded...");
+  console.log("Download link clicked!");
 }
-
 const Hero = () => {
   return (
     <div id="About">
