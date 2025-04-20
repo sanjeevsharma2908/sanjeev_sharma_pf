@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/sanjeevsharma2908",
   resume:
-    "https://drive.google.com/file/d/1p5f-Gef0UocIS2MSVk-qnUMfKy-n7wNF/view?usp=sharing",
+    "drive.google.com/uc?/export=download&id=1654KOOPykj0pBLXQN2kOZXlew_X2F1uj",
   twitter: "#",
   insta: "https://www.instagram.com/sanjeevsharma7417?igsh=MWV3eHpxZzBraGMzYw==",
   facebook: "https://www.facebook.com/estaflerjohn.sharma?mibextid=ZbWKwL",
@@ -287,7 +287,7 @@ export const projects = [
     description:
       "Developed a full-stack web application that allows users to search order dishes  of their own choice.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://raw.githubusercontent.com/sanjeevsharma2908/sanjeev_sharma_pf/refs/heads/main/public/Screenshot%202025-04-17%20154205.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     github: "https://github.com/sanjeevsharma2908/fdfrontend",

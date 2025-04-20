@@ -216,16 +216,16 @@ const HeroBg = styled.div`
   }
 `;
 const handleDownload = (event) => {
-  event.preventDefault();
-  console.log("Download button clicked!");
-  const  link = document.createElement("a");
-  link.href ='public\SanjeevSharma-FullStackWebDeveloper-Zn75 (1).pdf';
-  // link.target = "_blank";
-  link.download = 'SanjeevSharma-FullStackWebDeveloper-tAkK.pdf';
-  document.body.appendChild(link);
-  link.click();
-  document.body.removeChild(link);
-  console.log("Download link clicked!");
+event.preventDefault();
+const link = document.createElement('a');
+link.href = Bio.resume;
+link.download = 'Sanjeev_Sharma_Resume.pdf'; // Set the desired file name
+link.target = '_blank'; // Open in a new tab
+link.rel = 'noopener noreferrer'; // Security measure
+document.body.appendChild(link);
+link.click();
+document.body.removeChild(link);
+
 }
 const Hero = () => {
   return (
@@ -261,7 +261,7 @@ const Hero = () => {
                 <SubTitle>{Bio.description}</SubTitle>
               </motion.div>
 
-              <ResumeButton onClick={handleDownload} >
+              <ResumeButton onClick={handleDownload}  target="_blank" rel="noopener noreferrer">
                 Check Resume
               </ResumeButton>
             </HeroLeftContainer>
