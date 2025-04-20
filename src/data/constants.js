@@ -307,8 +307,7 @@ export const projects = [
     date: "jan 2024 - Jan 2024",
     description:
       "Designed and developed clone of the shop.com providing a range of the features of an e commerce web.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+    image:"https://raw.githubusercontent.com/sanjeevsharma2908/sanjeev_sharma_pf/refs/heads/main/public/shop.com.png",
     tags: [
       "React Js",
       "MongoDb",
@@ -337,7 +336,7 @@ export const projects = [
     description:
       "A fully functional with front end and back - end architecture providing the user with CRUD operations.",
     image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+      "https://raw.githubusercontent.com/sanjeevsharma2908/sanjeev_sharma_pf/refs/heads/main/public/the%20dojo%20blog.png",
     tags: ["Node.js","MongoDB","CSS", "React"],
     category: "React app",
     github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
